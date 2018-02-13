@@ -1,0 +1,3 @@
+Sample writing file 
+New line!
+Appending this to the file!
